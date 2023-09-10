@@ -30,7 +30,3 @@ Or, run `npm run cy:open` to open Cypress in interactive mode.
 ## Support this project
 
 If you want to support this project, leave a ⭐.
-
-___
-
-This project was created with 💚 by [Walmyr](https://walmyr.dev).
